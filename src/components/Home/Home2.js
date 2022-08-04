@@ -17,7 +17,7 @@ function Home2() {
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
               FEW <span className="purple"> WORDS </span> ABOUT <span className="purple"> ME </span> {" "}
-              <span className="wave" role="img" aria-labelledby="wave">
+              <span className="zoom" role="img" aria-labelledby="zoom">
                   🤓
                 </span>
             </h1>
